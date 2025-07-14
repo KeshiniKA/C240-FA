@@ -1,0 +1,87 @@
+Q: What’s the difference between a diploma and a degree?
+A: A diploma is typically a shorter, more focused program that prepares students for specific careers, while a degree is a longer academic program that provides broader knowledge and deeper specialization. Refer to your academic handbook for program details.
+
+Q: How do I calculate my GPA?
+A: GPA is calculated by dividing the total grade points earned by the total credit units attempted. Check your student portal for an official GPA calculator or academic policy guide.
+
+Q: Where can I find academic advising?
+A: You can find academic advising services through your school’s student portal or by visiting the Academic Services Office on campus.
+
+Q: What are the requirements for graduation?
+A: Graduation requirements include completing all required modules, achieving a minimum GPA, and fulfilling internship or final-year project requirements. Check your academic handbook for specific criteria.
+
+Q: How do I apply for a leave of absence?
+A: You can apply for a leave of absence through the student portal. Look under "Student Services" > "Leave Application". Be sure to check the application deadlines and documentation required.
+
+Q: Can you explain recursion in simple terms?
+A: Recursion is when a function calls itself to solve smaller versions of a problem until it reaches a base case. Think of it like Russian nesting dolls or a loop with memory.
+
+Q: What are the key takeaways from [topic]?
+A: Key takeaways include the main concepts, definitions, and practical applications. I can provide a summary if you specify the topic.
+
+Q: Where can I find practice problems for [subject]?
+A: You can find practice problems on your learning portal, past year papers, or websites like Khan Academy and Coursera.
+
+Q: What are common pitfalls when studying for [exam]?
+A: Common pitfalls include cramming, neglecting past papers, not reviewing feedback, and poor time management. Make a revision plan and practice active recall.
+
+Q: How do I start a research paper?
+A: Begin by choosing a topic, formulating a research question, and gathering credible sources. Then outline your structure (intro, body, conclusion) and start drafting.
+
+Q: What's the best way to structure a presentation?
+A: Use a clear structure: Introduction, Main Points (2–4), and Conclusion. Add visuals, rehearse your delivery, and time your presentation.
+
+Q: Can you give me tips for group projects?
+A: Assign clear roles, set deadlines, communicate regularly, and use collaborative tools like Google Docs or Trello to manage progress.
+
+Q: What are the common citation styles?
+A: Common styles include APA, MLA, and Chicago. Use citation generators like Zotero or CitationMachine, and always follow your instructor’s preferred style.
+
+Q: How do I start a Pomodoro study session?
+A: Just say “Start a Pomodoro session.” I’ll ask how long your focus and break periods should be, then guide you through cycles with reminders.
+
+Q: Can you help me study for 2 hours?
+A: Sure! I’ll help break your session into blocks. Would you prefer 25-minute Pomodoro sessions or longer focus periods?
+
+Q: What happens during a Pomodoro session?
+A: I’ll remind you when to take short breaks and when to resume. After several Pomodoros, I’ll suggest a longer break and track your total time studied.
+
+Q: Can I pause or end a session?
+A: Yes! Just say “Pause timer,” “End session,” or “Extend break,” and I’ll adjust accordingly.
+
+Q: How are you checking in with me?
+A: I’ll send friendly messages like “How are you feeling today?” or “Remember to take a quick break.” You can reply with how you're feeling, and I’ll respond accordingly.
+
+Q: I’m feeling overwhelmed. What can you do?
+A: I hear you. It’s okay to feel that way. Would you like a motivational quote, breathing exercise, or self-care suggestion?
+
+Q: Can you send me motivation?
+A: Absolutely! “You’ve got this! Progress is built one step at a time.” Let me know if you’d like another.
+
+Q: How do I set a deadline reminder?
+A: Just tell me the assignment name and due date/time. I’ll confirm and ask if you’d like reminders before it’s due.
+
+Q: Can you show my upcoming deadlines?
+A: Yes! I’ll list all the reminders you’ve set with due dates and times.
+
+Q: How do I update or delete a reminder?
+A: Just say “Update [Assignment Name]” or “Delete [Assignment Name],” and I’ll confirm the change.
+
+Q: What can you do?
+A: I can help with academic questions, time management (Pomodoro), deadline reminders, and motivation. Try saying: “Explain [concept]”, “Start a Pomodoro”, or “Set a deadline”.
+
+Q: What if you don’t understand my question?
+A: I’ll ask for clarification or offer options. For example: “Are you asking about GPA calculation or academic standing?”
+
+Q: Will you remember my previous messages?
+A: Yes! I’ll try to maintain context during our conversation so I can give more helpful responses.
+
+Q: Do you collect personal data?
+A: No, I do not collect or store personal or sensitive data. Your privacy is respected at all times.
+
+Q: Are you a replacement for teachers or counselors?
+A: No, I’m here to support your academic journey—not replace professional educators or mental health services. I’ll always refer you to the appropriate human support when needed.
+
+Q: How do you ensure accuracy?
+A: I use reliable information and official sources. Where appropriate, I’ll link you to verified guides and institutional resources.
+
